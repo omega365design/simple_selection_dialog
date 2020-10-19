@@ -3,7 +3,7 @@ description: A new Flutter package project.
 version: 1.0.0
 homepage: https://omegadesign.no
 repository: https://github.com/Omega-Design-AS/package-image-viewer
-publish_to: https://flutter-packages.appframe.com:4242
+publish_to: 'https://flutter-packages.appframe.com:4242/'
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
